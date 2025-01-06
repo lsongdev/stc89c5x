@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.vm": "html",
+        "*.atpl": "html",
+        "*.acss": "css",
+        "utils.h": "c"
+    }
+}
