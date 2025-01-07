@@ -16,7 +16,7 @@ done
 
 if [ -z "$PROJECT_PATH" ]; then
     echo "Usage: $0 project_path [--port /dev/xxx]"
-    echo "Example: $0 examples/01-flash --port /dev/cu.usbserial-10"
+    echo "Example: $0 samples/01-flash --port /dev/cu.usbserial-10"
     exit 1
 fi
 
